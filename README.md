@@ -1,7 +1,7 @@
 # Material Dialogs
 
 <!-- github-global:langs:start -->
-[简体中文](./translations/zh-CN/README.md) | [日本語](./translations/ja/README.md)
+[简体中文](./translations/zh-CN/README.md) | [日本語](./translations/ja/README.md) | [繁體中文](./translations/zh-TW/README.md) | [Español](./translations/es/README.md) | [한국어](./translations/ko/README.md)
 <!-- github-global:langs:end -->
 
 
